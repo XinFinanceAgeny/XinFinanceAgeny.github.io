@@ -1,4 +1,4 @@
-XinFinanceAgeny
+XinFinanceAgency
 ===============
 
 Xin Finance Agency
